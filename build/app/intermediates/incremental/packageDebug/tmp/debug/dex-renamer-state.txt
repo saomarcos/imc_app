@@ -1,0 +1,4 @@
+#Fri Oct 22 15:38:42 BRT 2021
+base.0=/home/gabrielmarcos/Documentos/curso_flutter/app_imc/build/app/intermediates/dex/debug/mergeDexDebug/classes.dex
+renamed.0=classes.dex
+path.0=classes.dex
